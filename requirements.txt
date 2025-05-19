@@ -1,0 +1,6 @@
+streamlit
+openai
+requests
+beautifulsoup4
+pypdf2  # Or pdfplumber for potentially better text extraction
+python-docx
